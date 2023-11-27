@@ -1,0 +1,203 @@
+.container{
+    margin-top: 150px;
+    margin-inline: 200px;
+    
+}
+.card{
+    margin-bottom: 39px;  
+    height: 7rem; 
+    border-radius: 0px;
+    background-color: white;
+}
+.card img{
+    margin-top: -9px;
+    height: 90px;
+    width: 67px;
+}
+.card-text{
+    margin-inline :11px;
+    margin-bottom: 1px;
+    
+    margin-top: 12px;
+    
+}
+.card-text h6{
+    font-weight: bold;
+    font-size: 14px;
+}
+.card-text p{
+    font-weight: 600;
+    font-size: 12px;
+    margin-top: -7px;
+    
+}
+.text2{
+    margin-top: 2px;
+}
+.head h1{
+    font-weight: Bold;
+    font-size: 35px;
+}
+.head h2{
+    font-weight: 500;
+    font-size: 32px;
+    
+}
+.head h4{
+    font-weight: 500;
+    
+}
+ 
+.text2 .btn{
+    margin-top: 25px;
+}
+.text2 ul{
+    margin-top: 25px;
+    margin-inline: -14px;
+}
+.text2 li{
+    font-weight: 600;
+    margin-top: 3px;
+}
+.btn button{
+    background-color: rgba(255, 68, 0, 0.874);
+    border-radius: 25px;
+    padding: 10px;
+    width: 200px;
+    color: #fff;
+    box-shadow: 0cqmax;
+}
+
+.container2{
+    margin-top: 80px;
+    
+
+}
+.main-text{
+    margin-inline: 160px;
+}
+.main-text h5{
+    font-weight: 600;
+    font-size: 18px;
+}
+.main-text h1{
+    font-weight: 600;
+    margin-bottom: 1px;
+}
+.main-text h3{
+    font-weight: 500;
+    margin-top: -3px;
+    margin-bottom: 30px;
+}
+.main-text ul{
+    margin-inline: -14px;
+}
+.main-text li{
+    font-weight: 600;
+    margin-top: 7px;
+}
+.img2{
+    margin-top: -68px;
+}
+.imgsec{
+
+    height:33px;
+    width: 56px;
+    margin-inline: 45px;
+    background-color: #fff;
+}
+.container3{
+    margin-top: 20px;
+}
+.imgsec2{
+    margin-inline: 100px;
+
+}
+.box{
+    width: 487px;
+    margin: 100px;
+    padding: 11px;
+    background-color: grey;
+    
+}
+.form{
+    display: flex;
+    flex-wrap: wrap;
+    background:none;
+    margin: 22px;
+    padding-right: 33px;
+}
+.upper-input{
+    margin: 3px;
+}
+.form input{
+    height: 11px;
+    width: 150px;
+    padding: 10px;
+    margin-top: 11px;
+}
+.section3 h1{
+    text-align: center;
+    margin-top: 33px;
+    font-weight: 700;
+}
+.textSection{
+    text-align: center;
+    margin-top: 40px;
+}
+.textSection h1{
+    font-weight: 600;
+    
+}
+.textSection p{
+    margin-top: 20px;
+}
+.textSection .linkList{
+    list-style: none;
+margin-top: 44px;
+    margin-inline: 33px;
+    
+}
+.textSection li{
+    margin-inline: 35px;
+}
+.textSection .bold{
+    font-weight: bold;
+}
+.form{
+    width:400px;
+    padding: 29px;
+    background: #FFFFFF;
+    margin-top: 70px;
+    margin-inline: 40px;
+    border-radius: 20px;
+   
+}
+.form h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.upper-input  input{
+    width: 330px;
+    height: auto;
+    border-radius: 5px;
+    
+}
+.upper-input label{
+    font-size: 15px;
+    font-weight: 600;
+}
+.lower-input{
+    margin-top:10px;
+   
+}
+.lower-input label{
+    font-size: 15px;
+    font-weight: 600;
+}
+.lower-input input{
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 13px;
+    
+}
